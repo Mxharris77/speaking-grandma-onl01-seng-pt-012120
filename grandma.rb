@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+message = gets.chomp
 
 def speak_to_grandma(message)
    love = "I LOVE YOU GRANDMA!"
